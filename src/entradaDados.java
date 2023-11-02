@@ -25,6 +25,12 @@ public class entradaDados {
 		System.out.println("Digite a sua idade 2");
 		int idade2 = sc.nextInt();
 		
+		//char
+		a = sc.next().charAt(0);
+		
+		//mais de vários dados - s'por um atraś do outro
+		
+		
 		System.out.println("nome 1: " + nome + "idade1: " + idade + "nome2 " + nome2 + " idade 2 " + idade2);
 	}
 
